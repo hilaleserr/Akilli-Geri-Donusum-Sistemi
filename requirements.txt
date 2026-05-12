@@ -1,4 +1,13 @@
-streamlit
-ultralytics
-opencv-python
-Pillow
+# --- Ana Uygulama ve Arayüz ---
+streamlit>=1.32.0          # Web tabanlı Dashboard (Arayüz) için [cite: 9, 61]
+
+# --- Yapay Zeka ve Model ---
+ultralytics>=8.1.0        # YOLOv8 model eğitimi ve çıkarım (inference) için [cite: 12, 24]
+
+# --- Görüntü İşleme ve Analiz ---
+opencv-python>=4.8.0      # Kamera erişimi ve görüntü işleme (OpenCV) için [cite: 14]
+Pillow>=10.0.0            # Resim dosyalarını okuma ve formatlama (PIL) için 
+
+# --- Veri Yönetimi ve Diğerleri ---
+numpy>=1.24.0             # Matris işlemleri ve sayısal hesaplamalar için
+roboflow>=1.1.0           # Veri setini API üzerinden çekmek için [cite: 15]
