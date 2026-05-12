@@ -61,7 +61,7 @@ Google Colab: Bulut tabanlı GPU ile derin öğrenme eğitimi.
 
 ├── README.md              # Proje dokümantasyonu
 
-└── data/                  # Veri seti klasör yapısı (80/20 split)
+└── data/                  # Veri seti klasör yapısı (80/20 split)-(Not: 8000+ görsellik veri seti, boyutu sebebiyle GitHub'a yüklenmemiş, Google Colab üzerinde işlenmiştir.)
 
 💻 Kurulum ve Çalıştırma
 Projeyi kendi bilgisayarınızda (yerel ortamda) çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
