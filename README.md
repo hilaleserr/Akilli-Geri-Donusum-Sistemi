@@ -52,10 +52,15 @@ Google Colab: Bulut tabanlı GPU ile derin öğrenme eğitimi.
 📂 Proje Yapısı
 
 ├── best.pt                # Eğitilmiş final model dosyası (Weights)
+
 ├── dashboard_app.py       # Streamlit web arayüzü ana kodu
+
 ├── requirements.txt       # Gerekli Python kütüphane listesi
+
 ├── results.png            # Eğitim başarı grafikleri (Loss, mAP)
+
 ├── README.md              # Proje dokümantasyonu
+
 └── data/                  # Veri seti klasör yapısı (80/20 split)
 
 💻 Kurulum ve Çalıştırma
